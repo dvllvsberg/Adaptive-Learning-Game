@@ -1,0 +1,379 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f28967680ddfbf42a6ee8839a77b68f, type: 3}
+  m_Name: GameLocalizationDB
+  m_EditorClassIdentifier: 
+  entries:
+  - key: game.colour.1.title
+    russian: "\u041D\u0430\u0439\u0434\u0438 \u0446\u0432\u0435\u0442"
+    kazakh: "\u0422\u04AF\u0441\u0442\u0456 \u0442\u0430\u043F"
+    english: Find the Color
+  - key: help.colour.1.page1.title
+    russian: "\u041E \u043C\u0438\u043D\u0438-\u0438\u0433\u0440\u0435"
+    kazakh: "\u041E\u0439\u044B\u043D \u0442\u0443\u0440\u0430\u043B\u044B"
+    english: About the Game
+  - key: help.colour.1.page1.body
+    russian: "\u042D\u0442\u0430 \u043C\u0438\u043D\u0438-\u0438\u0433\u0440\u0430
+      \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u0442 \u0440\u0430\u0441\u043F\u043E\u0437\u043D\u0430\u0432\u0430\u043D\u0438\u0435
+      \u0446\u0432\u0435\u0442\u043E\u0432, \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u0435
+      \u0438 \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C \u0437\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0433\u043E
+      \u0432\u043E\u0441\u043F\u0440\u0438\u044F\u0442\u0438\u044F. \u0418\u0433\u0440\u043E\u043A
+      \u0443\u0447\u0438\u0442\u0441\u044F \u0442\u043E\u0447\u043D\u043E \u0432\u044B\u0431\u0438\u0440\u0430\u0442\u044C
+      \u043D\u0443\u0436\u043D\u044B\u0439 \u0432\u0430\u0440\u0438\u0430\u043D\u0442
+      \u043F\u043E \u0443\u0441\u043B\u043E\u0432\u0438\u044E, \u0447\u0442\u043E
+      \u043F\u043E\u043C\u043E\u0433\u0430\u0435\u0442 \u0442\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u0430\u0442\u044C
+      \u043A\u043E\u043D\u0446\u0435\u043D\u0442\u0440\u0430\u0446\u0438\u044E \u0438
+      \u043A\u043E\u0433\u043D\u0438\u0442\u0438\u0432\u043D\u0443\u044E \u0433\u0438\u0431\u043A\u043E\u0441\u0442\u044C."
+    kazakh: "\u0411\u04B1\u043B \u043C\u0438\u043D\u0438-\u043E\u0439\u044B\u043D
+      \u0442\u04AF\u0441\u0442\u0435\u0440\u0434\u0456 \u0442\u0430\u043D\u0443,
+      \u0437\u0435\u0439\u0456\u043D \u0436\u04D9\u043D\u0435 \u043A\u04E9\u0440\u0443
+      \u0430\u0440\u049B\u044B\u043B\u044B \u049B\u0430\u0431\u044B\u043B\u0434\u0430\u0443
+      \u0436\u044B\u043B\u0434\u0430\u043C\u0434\u044B\u0493\u044B\u043D \u0434\u0430\u043C\u044B\u0442\u0430\u0434\u044B.
+      \u041E\u0439\u044B\u043D\u0448\u044B \u0448\u0430\u0440\u0442 \u0431\u043E\u0439\u044B\u043D\u0448\u0430
+      \u0434\u04B1\u0440\u044B\u0441 \u043D\u04B1\u0441\u049B\u0430\u043D\u044B \u0434\u04D9\u043B
+      \u0442\u0430\u04A3\u0434\u0430\u0443\u0434\u044B \u04AF\u0439\u0440\u0435\u043D\u0435\u0434\u0456,
+      \u0431\u04B1\u043B \u043D\u0430\u0437\u0430\u0440\u0434\u044B \u0448\u043E\u0493\u044B\u0440\u043B\u0430\u043D\u0434\u044B\u0440\u0443
+      \u043C\u0435\u043D \u043A\u043E\u0433\u043D\u0438\u0442\u0438\u0432\u0442\u0456\u043A
+      \u0438\u043A\u0435\u043C\u0434\u0456\u043B\u0456\u043A\u0442\u0456 \u0436\u0430\u049B\u0441\u0430\u0440\u0442\u0430\u0434\u044B."
+    english: This mini-game develops color recognition, attention, and visual processing
+      speed. The player learns to select the correct option based on the task, improving
+      concentration and cognitive flexibility.
+  - key: help.colour.1.page2.title
+    russian: " \u041A\u0430\u043A \u0438\u0433\u0440\u0430\u0442\u044C"
+    kazakh: "\u049A\u0430\u043B\u0430\u0439 \u043E\u0439\u043D\u0430\u0443 \u043A\u0435\u0440\u0435\u043A"
+    english: How to Play
+  - key: help.colour.1.page2.body
+    russian: "1) \u041F\u0440\u043E\u0447\u0438\u0442\u0430\u0439 \u0437\u0430\u0434\u0430\u043D\u0438\u0435
+      \u0441\u0432\u0435\u0440\u0445\u0443.\\n2) \u0412\u044B\u0431\u0435\u0440\u0438
+      \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u0443\u044E \u0444\u0438\u0433\u0443\u0440\u0443.\\n3)
+      \u041F\u0440\u0438 \u0432\u0435\u0440\u043D\u043E\u043C \u043E\u0442\u0432\u0435\u0442\u0435
+      \u043D\u0430\u0436\u043C\u0438 Next.\\n4) \u041D\u0430 \u0443\u0440\u043E\u0432\u043D\u044F\u0445
+      1-5 \u0432\u044B\u0431\u043E\u0440 \u043F\u043E \u0446\u0432\u0435\u0442\u0443.\\n5)
+      \u041D\u0430 \u0443\u0440\u043E\u0432\u043D\u044F\u0445 6-10 \u0432\u044B\u0431\u043E\u0440
+      \u043F\u043E \u0446\u0432\u0435\u0442\u0443 \u0438 \u0444\u043E\u0440\u043C\u0435."
+    kazakh: "1) \u0416\u043E\u0493\u0430\u0440\u044B\u0434\u0430\u0493\u044B \u0442\u0430\u043F\u0441\u044B\u0440\u043C\u0430\u043D\u044B
+      \u043E\u049B\u044B.\\n2) \u0414\u04B1\u0440\u044B\u0441 \u0444\u0438\u0433\u0443\u0440\u0430\u043D\u044B
+      \u0442\u0430\u04A3\u0434\u0430.\\n3) \u0414\u04B1\u0440\u044B\u0441 \u0436\u0430\u0443\u0430\u043F\u0442\u0430\u043D
+      \u043A\u0435\u0439\u0456\u043D Next \u0431\u0430\u0442\u044B\u0440\u043C\u0430\u0441\u044B\u043D
+      \u0431\u0430\u0441.\\n4) 1-5 \u0434\u0435\u04A3\u0433\u0435\u0439\u043B\u0435\u0440\u0434\u0435
+      \u0442\u0430\u04A3\u0434\u0430\u0443 \u0442\u04AF\u0441 \u0431\u043E\u0439\u044B\u043D\u0448\u0430
+      \u0436\u0430\u0441\u0430\u043B\u0430\u0434\u044B.\\n5) 6-10 \u0434\u0435\u04A3\u0433\u0435\u0439\u043B\u0435\u0440\u0434\u0435
+      \u0442\u0430\u04A3\u0434\u0430\u0443 \u0442\u04AF\u0441 \u043F\u0435\u043D
+      \u043F\u0456\u0448\u0456\u043D \u0431\u043E\u0439\u044B\u043D\u0448\u0430 \u0436\u0430\u0441\u0430\u043B\u0430\u0434\u044B."
+    english: '1) Read the task at the top.\n2) Select the correct shape.\n3) After
+      a correct answer, press Next.\n4) Levels 1-5: choose by color.\n5) Levels 6-10:
+      choose by color and shape.'
+  - key: ui.common.next
+    russian: "\u0414\u0430\u043B\u0435\u0435"
+    kazakh: "\u041A\u0435\u043B\u0435\u0441\u0456"
+    english: Next
+  - key: ui.common.prev
+    russian: "\u041D\u0430\u0437\u0430\u0434"
+    kazakh: "\u0410\u0440\u0442\u049B\u0430"
+    english: Prev
+  - key: ui.common.close
+    russian: "\u0417\u0430\u043A\u0440\u044B\u0442\u044C"
+    kazakh: "\u0416\u0430\u0431\u0443"
+    english: Close
+  - key: ui.common.pause
+    russian: "\u041F\u0430\u0443\u0437\u0430"
+    kazakh: "\u04AE\u0437\u0456\u043B\u0456\u0441"
+    english: Pause
+  - key: ui.common.resume
+    russian: "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+    kazakh: "\u0416\u0430\u043B\u0493\u0430\u0441\u0442\u044B\u0440\u0443"
+    english: Resume
+  - key: ui.common.restart
+    russian: "\u0420\u0435\u0441\u0442\u0430\u0440\u0442"
+    kazakh: "\u049A\u0430\u0439\u0442\u0430 \u0431\u0430\u0441\u0442\u0430\u0443"
+    english: Restart
+  - key: ui.common.to_minigames
+    russian: "\u041A \u043C\u0438\u043D\u0438-\u0438\u0433\u0440\u0430\u043C"
+    kazakh: "\u041C\u0438\u043D\u0438-\u043E\u0439\u044B\u043D\u0434\u0430\u0440\u0493\u0430"
+    english: To Minigames
+  - key: ui.common.settings
+    russian: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+    kazakh: "\u0411\u0430\u043F\u0442\u0430\u0443\u043B\u0430\u0440"
+    english: Settings
+  - key: ui.common.exit
+    russian: "\u0412\u044B\u0445\u043E\u0434"
+    kazakh: "\u0428\u044B\u0493\u0443 "
+    english: Exit
+  - key: ui.common.language
+    russian: "\u042F\u0437\u044B\u043A"
+    kazakh: "\u0422\u0456\u043B"
+    english: Language
+  - key: ui.settings.title
+    russian: "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+    kazakh: "\u0411\u0430\u043F\u0442\u0430\u0443\u043B\u0430\u0440"
+    english: Settings
+  - key: game.common.level
+    russian: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C"
+    kazakh: "\u0414\u0435\u04A3\u0433\u0435\u0439"
+    english: Level
+  - key: game.colour.1.task.choose_color
+    russian: "\u041D\u0430\u0439\u0434\u0438 \u0446\u0432\u0435\u0442: {0}"
+    kazakh: "\u0422\u04AF\u0441\u0442\u0456 \u0442\u0430\u043F: {0}"
+    english: 'Choose color: {0}'
+  - key: game.colour.1.task.choose_color_shape
+    russian: "\u041D\u0430\u0439\u0434\u0438: {0} {1}"
+    kazakh: "\u0422\u0430\u043F: {0} {1}"
+    english: 'Choose: {0} {1}'
+  - key: game.common.result.correct
+    russian: "\u0412\u0435\u0440\u043D\u043E!"
+    kazakh: "\u0414\u04B1\u0440\u044B\u0441!"
+    english: Correct!
+  - key: game.common.result.try_again
+    russian: "\u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439 \u0435\u0449\u0451"
+    kazakh: "\u0422\u0430\u0493\u044B \u0434\u0430 \u0431\u0430\u0439\u049B\u0430\u043F \u043A\u04E9\u0440"
+    english: Try again
+  - key: game.common.result.completed
+    russian: "\u0412\u0441\u0435 \u0443\u0440\u043E\u0432\u043D\u0438 \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u044B!"
+    kazakh: "\u0411\u0430\u0440\u043B\u044B\u049B \u0434\u0435\u04A3\u0433\u0435\u0439
+      \u0430\u044F\u049B\u0442\u0430\u043B\u0434\u044B!"
+    english: All levels completed!
+  - key: game.common.result.great_job
+    russian: "\u041E\u0442\u043B\u0438\u0447\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430!"
+    kazakh: "\u04E8\u0442\u0435 \u0436\u0430\u049B\u0441\u044B!"
+    english: Great job!
+  - key: common.shape.circle
+    russian: "\u041A\u0440\u0443\u0433"
+    kazakh: "\u0428\u0435\u04A3\u0431\u0435\u0440"
+    english: Circle
+  - key: common.shape.square
+    russian: "\u041A\u0432\u0430\u0434\u0440\u0430\u0442"
+    kazakh: "\u0428\u0430\u0440\u0448\u044B"
+    english: Square
+  - key: common.shape.triangle
+    russian: "\u0422\u0440\u0435\u0443\u0433\u043E\u043B\u044C\u043D\u0438\u043A"
+    kazakh: "\u04AE\u0448\u0431\u04B1\u0440\u044B\u0448"
+    english: Triangle
+  - key: common.shape.star
+    russian: "\u0417\u0432\u0435\u0437\u0434\u0430"
+    kazakh: "\u0416\u04B1\u043B\u0434\u044B\u0437"
+    english: Star
+  - key: common.color.red
+    russian: "\u041A\u0440\u0430\u0441\u043D\u044B\u0439"
+    kazakh: "\u049A\u044B\u0437\u044B\u043B"
+    english: Red
+  - key: common.color.blue
+    russian: "\u0421\u0438\u043D\u0438\u0439"
+    kazakh: "\u041A\u04E9\u043A"
+    english: Blue
+  - key: common.color.green
+    russian: "\u0417\u0435\u043B\u0451\u043D\u044B\u0439"
+    kazakh: "\u0416\u0430\u0441\u044B\u043B"
+    english: Green
+  - key: common.color.yellow
+    russian: "\u0416\u0451\u043B\u0442\u044B\u0439"
+    kazakh: "\u0421\u0430\u0440\u044B"
+    english: Yellow
+  - key: game.shape.1.task.place_shape
+    russian: "\u041F\u043E\u043B\u043E\u0436\u0438: {0}"
+    kazakh: "\u041E\u0440\u043D\u0430\u043B\u0430\u0441\u0442\u044B\u0440: {0}"
+    english: 'Place: {0}'
+  - key: game.shape.1.title
+    russian: "\u0420\u0430\u0437\u043B\u043E\u0436\u0438 \u0444\u0438\u0433\u0443\u0440\u044B"
+    kazakh: "\u0424\u0438\u0433\u0443\u0440\u0430\u043B\u0430\u0440\u0434\u044B \u043E\u0440\u043D\u0430\u043B\u0430\u0441\u0442\u044B\u0440"
+    english: Shape Sort
+  - key: game.shape.1.result.wrong_target
+    russian: "\u042D\u0442\u043E \u043D\u0435 \u0442\u0430 \u0444\u0438\u0433\u0443\u0440\u0430"
+    kazakh: "\u0411\u04B1\u043B \u049B\u0430\u0436\u0435\u0442 \u043F\u0456\u0448\u0456\u043D \u0435\u043C\u0435\u0441"
+    english: Wrong target shape
+  - key: game.shape.1.result.level_complete
+    russian: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C \u043F\u0440\u043E\u0439\u0434\u0435\u043D!"
+    kazakh: "\u0414\u0435\u04A3\u0433\u0435\u0439 \u0430\u044F\u049B\u0442\u0430\u043B\u0434\u044B!"
+    english: Level complete!
+  - key: game.number.1.task.press_start
+    russian: "\u041D\u0430\u0436\u043C\u0438 Start"
+    kazakh: "Start \u0431\u0430\u0442\u044B\u0440\u043C\u0430\u0441\u044B\u043D \u0431\u0430\u0441"
+    english: Press Start
+  - key: game.number.1.title
+    russian: "\u041F\u043E\u0432\u0442\u043E\u0440\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+    kazakh: "\u0420\u0435\u0442\u0442\u0456 \u049B\u0430\u0439\u0442\u0430\u043B\u0430"
+    english: Repeat the Sequence
+  - key: game.number.1.task.watch_sequence
+    russian: "\u0421\u043C\u043E\u0442\u0440\u0438 \u043D\u0430 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+    kazakh: "\u0420\u0435\u0442\u0456\u043D \u049B\u0430\u0440\u0430"
+    english: Watch the sequence
+  - key: game.number.1.task.repeat_sequence
+    russian: "\u041F\u043E\u0432\u0442\u043E\u0440\u0438 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+    kazakh: "\u0420\u0435\u0442\u0442\u0456 \u049B\u0430\u0439\u0442\u0430\u043B\u0430"
+    english: Repeat the sequence
+  - key: game.number.1.task.sequence_completed
+    russian: "\u041F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C \u043F\u0440\u043E\u0439\u0434\u0435\u043D\u0430"
+    kazakh: "\u0420\u0435\u0442 \u0441\u04D9\u0442\u0442\u0456 \u0430\u044F\u049B\u0442\u0430\u043B\u0434\u044B"
+    english: Sequence completed
+  - key: game.number.1.task.press_retry
+    russian: "\u041D\u0430\u0436\u043C\u0438 Retry"
+    kazakh: "Retry \u0431\u0430\u0442\u044B\u0440\u043C\u0430\u0441\u044B\u043D \u0431\u0430\u0441"
+    english: Press Retry
+  - key: game.number.1.result.wrong_sequence
+    russian: "\u041D\u0435\u0432\u0435\u0440\u043D\u0430\u044F \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C. \u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439 \u0435\u0449\u0451."
+    kazakh: "\u049A\u0430\u0442\u0435 \u0440\u0435\u0442. \u0422\u0430\u0493\u044B \u0434\u0430 \u0431\u0430\u0439\u049B\u0430\u043F \u043A\u04E9\u0440."
+    english: Wrong sequence. Try again.
+  - key: game.number.1.action.start
+    russian: Start
+    kazakh: Start
+    english: Start
+  - key: game.number.1.action.retry
+    russian: Retry
+    kazakh: Retry
+    english: Retry
+  - key: game.number.1.action.next_level
+    russian: "\u0421\u043B\u0435\u0434. \u0443\u0440\u043E\u0432\u0435\u043D\u044C"
+    kazakh: "\u041A\u0435\u043B\u0435\u0441\u0456 \u0434\u0435\u04A3\u0433\u0435\u0439"
+    english: Next Level
+  - key: game.number.1.action.finish
+    russian: "\u0417\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u044C"
+    kazakh: "\u0410\u044F\u049B\u0442\u0430\u0443"
+    english: Finish
+  - key: ui.common.play
+    russian: "\u0418\u0433\u0440\u0430\u0442\u044C"
+    kazakh: "\u041E\u0439\u043D\u0430\u0443"
+    english: Play
+  - key: ui.common.tutorial
+    russian: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435"
+    kazakh: "\u041D\u04B1\u0441\u049B\u0430\u0443"
+    english: Tutorial
+  - key: ui.common.back
+    russian: "\u041D\u0430\u0437\u0430\u0434"
+    kazakh: "\u0410\u0440\u0442\u049B\u0430"
+    english: Back
+  - key: menu.main.tutorial.body
+    russian: "\u042D\u0442\u043E \u043E\u0431\u0443\u0447\u0430\u044E\u0449\u0430\u044F \u0438\u0433\u0440\u0430 \u0434\u043B\u044F \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F \u043A\u043E\u0433\u043D\u0438\u0442\u0438\u0432\u043D\u044B\u0445 \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u043E\u0441\u0442\u0435\u0439.\n\n\u041D\u0430\u0432\u044B\u043A\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044E\u0442\u0441\u044F:\n- \u0412\u043D\u0438\u043C\u0430\u043D\u0438\u0435\n- \u041F\u0430\u043C\u044F\u0442\u044C\n- \u041B\u043E\u0433\u0438\u043A\u0430\n\n\u041C\u0438\u043D\u0438-\u0438\u0433\u0440\u044B:\n1) \u0418\u0433\u0440\u0430 \u043D\u0430 \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u0435 - \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u044C \u043D\u0443\u0436\u043D\u044B\u0435 \u043E\u0431\u044A\u0435\u043A\u0442\u044B \u0438\u043B\u0438 \u0441\u0438\u043C\u0432\u043E\u043B\u044B \u0437\u0430 \u0432\u0440\u0435\u043C\u044F.\n2) \u0418\u0433\u0440\u0430 \u043D\u0430 \u043F\u0430\u043C\u044F\u0442\u044C - \u0437\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u0442\u044C \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0438 \u0438 \u043F\u043E\u0432\u0442\u043E\u0440\u044F\u0442\u044C \u0438\u0445.\n3) \u0418\u0433\u0440\u0430 \u043D\u0430 \u043B\u043E\u0433\u0438\u043A\u0443 - \u0440\u0435\u0448\u0430\u0442\u044C \u043F\u0440\u043E\u0441\u0442\u044B\u0435 \u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u0437\u0430\u0434\u0430\u0447\u0438."
+    kazakh: "\u0411\u04B1\u043B \u043A\u043E\u0433\u043D\u0438\u0442\u0438\u0432\u0442\u0456\u043A \u049B\u0430\u0431\u0456\u043B\u0435\u0442\u0442\u0435\u0440\u0434\u0456 \u0434\u0430\u043C\u044B\u0442\u0443\u0493\u0430 \u0430\u0440\u043D\u0430\u043B\u0493\u0430\u043D \u0431\u0456\u043B\u0456\u043C \u0431\u0435\u0440\u0443 \u043E\u0439\u044B\u043D\u044B.\n\n\u0414\u0430\u043C\u0438\u0442\u044B\u043D \u0434\u0430\u0493\u0434\u044B\u043B\u0430\u0440:\n- \u0417\u0435\u0439\u0456\u043D\n- \u0415\u0441\u0442\u0435 \u0441\u0430\u049B\u0442\u0430\u0443\n- \u041B\u043E\u0433\u0438\u043A\u0430\n\n\u041C\u0438\u043D\u0438-\u043E\u0439\u044B\u043D\u0434\u0430\u0440:\n1) \u0417\u0435\u0439\u0456\u043D \u043E\u0439\u044B\u043D\u044B - \u0431\u0435\u0440\u0456\u043B\u0433\u0435\u043D \u0443\u0430\u049B\u044B\u0442 \u0456\u0448\u0456\u043D\u0434\u0435 \u049B\u0430\u0436\u0435\u0442 \u043D\u044B\u0441\u0430\u043D\u0434\u0430\u0440\u0434\u044B \u043D\u0435\u043C\u0435\u0441\u0435 \u0431\u0435\u043B\u0433\u0456\u043B\u0435\u0440\u0434\u0456 \u0442\u0430\u0431\u0443.\n2) \u0415\u0441\u0442\u0435 \u0441\u0430\u049B\u0442\u0430\u0443 \u043E\u0439\u044B\u043D\u044B - \u0440\u0435\u0442\u0442\u0456\u043B\u0456\u043A\u0442\u0435\u0440\u0434\u0456 \u0435\u0441\u0442\u0435 \u0441\u0430\u049B\u0442\u0430\u043F, \u043E\u043B\u0430\u0440\u0434\u044B \u049B\u0430\u0439\u0442\u0430\u043B\u0430\u0443.\n3) \u041B\u043E\u0433\u0438\u043A\u0430 \u043E\u0439\u044B\u043D\u044B - \u049B\u0430\u0440\u0430\u043F\u0430\u0439\u044B\u043C \u043B\u043E\u0433\u0438\u043A\u0430\u043B\u044B\u049B \u0442\u0430\u043F\u0441\u044B\u0440\u043C\u0430\u043B\u0430\u0440\u0434\u044B \u0448\u0435\u0448\u0443."
+    english: "This is an educational game for cognitive development.\n\nSkills developed:\n- Attention\n- Memory\n- Logic\n\nMini-games:\n1) Attention game - find the right objects or symbols in time.\n2) Memory game - remember and repeat sequences.\n3) Logic game - solve simple logical tasks."
+  - key: menu.minigame_select.title
+    russian: "\u0412\u044B\u0431\u0435\u0440\u0438 \u0442\u0438\u043F \u043C\u0438\u043D\u0438-\u0438\u0433\u0440\u044B"
+    kazakh: "\u041C\u0438\u043D\u0438-\u043E\u0439\u044B\u043D \u0442\u04AF\u0440\u0456\u043D \u0442\u0430\u04A3\u0434\u0430"
+    english: Choose Mini-Game Type
+  - key: menu.minigame_select.colours
+    russian: "\u0426\u0432\u0435\u0442\u0430"
+    kazakh: "\u0422\u04AF\u0441\u0442\u0435\u0440"
+    english: Colours
+  - key: menu.minigame_select.shapes
+    russian: "\u0424\u0438\u0433\u0443\u0440\u044B"
+    kazakh: "\u041F\u0456\u0448\u0456\u043D\u0434\u0435\u0440"
+    english: Shapes
+  - key: menu.minigame_select.numbers
+    russian: "\u0426\u0438\u0444\u0440\u044B"
+    kazakh: "\u0421\u0430\u043D\u0434\u0430\u0440"
+    english: Numbers
+  - key: menu.section_select.title
+    russian: "\u0412\u044B\u0431\u0435\u0440\u0438 \u043C\u0438\u043D\u0438-\u0438\u0433\u0440\u0443"
+    kazakh: "\u041C\u0438\u043D\u0438-\u043E\u0439\u044B\u043D\u0434\u044B \u0442\u0430\u04A3\u0434\u0430"
+    english: Choose Mini-Game
+  - key: menu.section_select.game1
+    russian: "\u0418\u0433\u0440\u0430 1"
+    kazakh: "\u041E\u0439\u044B\u043D 1"
+    english: Game 1
+  - key: menu.section_select.coming_soon
+    russian: "\u0421\u043A\u043E\u0440\u043E"
+    kazakh: "\u0416\u0443\u044B\u0440\u0434\u0430"
+    english: Coming Soon
+  - key: menu.section_select.coming_soon.body
+    russian: "\u042D\u0442\u0430 \u0438\u0433\u0440\u0430 \u0435\u0449\u0451 \u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0435.\n\u0421\u043A\u043E\u0440\u043E \u0432 \u043D\u0435\u0451 \u043C\u043E\u0436\u043D\u043E \u0431\u0443\u0434\u0435\u0442 \u0441\u044B\u0433\u0440\u0430\u0442\u044C."
+    kazakh: "\u0411\u04B1\u043B \u043E\u0439\u044B\u043D \u04D9\u043B\u0456 \u0434\u0430\u0439\u044B\u043D\u0434\u0430\u043B\u0443 \u04AF\u0441\u0442\u0456\u043D\u0434\u0435.\n\u0416\u0443\u044B\u0440\u0434\u0430 \u043E\u043D\u044B \u043E\u0439\u043D\u0430\u0443\u0493\u0430 \u0431\u043E\u043B\u0430\u0434\u044B."
+    english: "This game is under development.\nYou will be able to play it very soon."
+  - key: ui.common.ok
+    russian: OK
+    kazakh: OK
+    english: OK
+  - key: help.shape.select.page1.title
+    russian: "\u0420\u0430\u0441\u043F\u043E\u0437\u043D\u0430\u0432\u0430\u043D\u0438\u0435 \u0444\u0438\u0433\u0443\u0440"
+    kazakh: "\u041F\u0456\u0448\u0456\u043D\u0434\u0435\u0440\u0434\u0456 \u0442\u0430\u043D\u0443"
+    english: Shape Recognition
+  - key: help.shape.select.page1.body
+    russian: "\u042D\u0442\u043E\u0442 \u0440\u0430\u0437\u0434\u0435\u043B \u043F\u043E\u043C\u043E\u0433\u0430\u0435\u0442 \u0440\u0435\u0431\u0451\u043D\u043A\u0443 \u0443\u0447\u0438\u0442\u044C\u0441\u044F \u0440\u0430\u0441\u043F\u043E\u0437\u043D\u0430\u0432\u0430\u0442\u044C \u0444\u0438\u0433\u0443\u0440\u044B, \u0441\u0440\u0430\u0432\u043D\u0438\u0432\u0430\u0442\u044C \u0438\u0445 \u0438 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E \u0441\u043E\u0440\u0442\u0438\u0440\u043E\u0432\u0430\u0442\u044C. \u041C\u0438\u043D\u0438-\u0438\u0433\u0440\u044B \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u044E\u0442 \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u0435, \u0437\u0440\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u0432\u043E\u0441\u043F\u0440\u0438\u044F\u0442\u0438\u0435 \u0438 \u043B\u043E\u0433\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043C\u044B\u0448\u043B\u0435\u043D\u0438\u0435."
+    kazakh: "\u0411\u04B1\u043B \u0431\u04E9\u043B\u0456\u043C \u0431\u0430\u043B\u0430\u0493\u0430 \u043F\u0456\u0448\u0456\u043D\u0434\u0435\u0440\u0434\u0456 \u0442\u0430\u043D\u0443\u0434\u044B, \u043E\u043B\u0430\u0440\u0434\u044B \u0441\u0430\u043B\u044B\u0441\u0442\u044B\u0440\u0443\u0434\u044B \u0436\u04D9\u043D\u0435 \u0434\u04B1\u0440\u044B\u0441 \u0441\u04B1\u0440\u044B\u043F\u0442\u0430\u0443\u0434\u044B \u04AF\u0439\u0440\u0435\u0442\u0435\u0434\u0456. \u041C\u0438\u043D\u0438-\u043E\u0439\u044B\u043D\u0434\u0430\u0440 \u0437\u0435\u0439\u0456\u043D\u0434\u0456, \u043A\u04E9\u0440\u043D\u0435\u043A\u0456 \u049B\u0430\u0431\u044B\u043B\u0434\u0430\u0443\u0434\u044B \u0436\u04D9\u043D\u0435 \u043B\u043E\u0433\u0438\u043A\u0430\u043B\u044B\u049B \u043E\u0439\u043B\u0430\u0443\u0434\u044B \u0434\u0430\u043C\u044B\u0442\u0430\u0434\u044B."
+    english: This section helps children recognize shapes, compare them, and sort them correctly. The mini-games develop attention, visual perception, and logical thinking.
+  - key: help.number.select.page1.title
+    russian: "\u0418\u0433\u0440\u044B \u0441 \u0446\u0438\u0444\u0440\u0430\u043C\u0438"
+    kazakh: "\u0421\u0430\u043D\u0434\u0430\u0440 \u043E\u0439\u044B\u043D\u0434\u0430\u0440\u044B"
+    english: Number Games
+  - key: help.number.select.page1.body
+    russian: "\u042D\u0442\u043E\u0442 \u0440\u0430\u0437\u0434\u0435\u043B \u043F\u043E\u043C\u043E\u0433\u0430\u0435\u0442 \u0440\u0435\u0431\u0451\u043D\u043A\u0443 \u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C \u0441 \u0446\u0438\u0444\u0440\u0430\u043C\u0438, \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044F\u043C\u0438 \u0438 \u0437\u0430\u0434\u0430\u043D\u0438\u044F\u043C\u0438 \u043D\u0430 \u043F\u0430\u043C\u044F\u0442\u044C. \u041C\u0438\u043D\u0438-\u0438\u0433\u0440\u044B \u0442\u0440\u0435\u043D\u0438\u0440\u0443\u044E\u0442 \u043A\u043E\u043D\u0446\u0435\u043D\u0442\u0440\u0430\u0446\u0438\u044E, \u0437\u0430\u043F\u043E\u043C\u0438\u043D\u0430\u043D\u0438\u0435 \u043F\u043E\u0440\u044F\u0434\u043A\u0430 \u0438 \u0442\u043E\u0447\u043D\u043E\u0435 \u043F\u043E\u0432\u0442\u043E\u0440\u0435\u043D\u0438\u0435 \u043F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0435\u0439."
+    kazakh: "\u0411\u04B1\u043B \u0431\u04E9\u043B\u0456\u043C \u0431\u0430\u043B\u0430\u0493\u0430 \u0441\u0430\u043D\u0434\u0430\u0440\u043C\u0435\u043D, \u0440\u0435\u0442\u0442\u0456\u043B\u0456\u043A\u0442\u0435\u0440\u043C\u0435\u043D \u0436\u04D9\u043D\u0435 \u0435\u0441\u0442\u0435 \u0441\u0430\u049B\u0442\u0430\u0443 \u0442\u0430\u043F\u0441\u044B\u0440\u043C\u0430\u043B\u0430\u0440\u044B\u043C\u0435\u043D \u0436\u04B1\u043C\u044B\u0441 \u0456\u0441\u0442\u0435\u0443\u0433\u0435 \u043A\u04E9\u043C\u0435\u043A\u0442\u0435\u0441\u0435\u0434\u0456. \u041C\u0438\u043D\u0438-\u043E\u0439\u044B\u043D\u0434\u0430\u0440 \u043D\u0430\u0437\u0430\u0440 \u0448\u043E\u0493\u044B\u0440\u043B\u0430\u043D\u0434\u044B\u0440\u0443\u0434\u044B, \u0440\u0435\u0442\u0442\u0456\u043B\u0456\u043A\u0442\u0456 \u0435\u0441\u0442\u0435 \u0441\u0430\u049B\u0442\u0430\u0443\u0434\u044B \u0436\u04D9\u043D\u0435 \u04AF\u043B\u0433\u0456\u043D\u0456 \u0434\u04D9\u043B \u049B\u0430\u0439\u0442\u0430\u043B\u0430\u0443\u0434\u044B \u0434\u0430\u043C\u044B\u0442\u0430\u0434\u044B."
+    english: This section helps children work with numbers, sequences, and memory tasks. The mini-games train concentration, remembering order, and accurate repetition of patterns.
+  - key: help.colour.1.page1.title
+    russian: О мини-игре
+    kazakh: Ойын туралы
+    english: About the Game
+  - key: help.colour.1.page1.body
+    russian: 'Мини-игра «Найди цвет» направлена на развитие зрительного восприятия, произвольного внимания и навыка классификации объектов по заданному признаку.\n\nНа начальных уровнях ребенок соотносит задание с цветом объекта. На последующих уровнях добавляется второй признак — форма, что повышает когнитивную нагрузку и тренирует способность удерживать несколько условий одновременно.\n\nПедагогическая цель игры — формирование точности зрительного выбора, развитие концентрации внимания и постепенное освоение анализа признаков объекта.'
+    kazakh: '«Түсті тап» мини-ойыны көру арқылы қабылдауды, ерікті зейінді және нысандарды берілген белгі бойынша жіктеу дағдысын дамытуға бағытталған.\n\nБастапқы деңгейлерде бала тапсырманы нысанның түсімен сәйкестендіреді. Кейінгі деңгейлерде екінші белгі — пішін қосылады, бұл танымдық жүктемені арттырып, бірнеше шартты бір уақытта есте ұстауға үйретеді.\n\nОйынның педагогикалық мақсаты — көру арқылы дәл таңдау жасау, зейінді шоғырландыру және нысан белгілерін талдау дағдысын қалыптастыру.'
+    english: 'The Find the Color mini-game is aimed at developing visual perception, voluntary attention, and the ability to classify objects by a given feature.\n\nAt the initial levels, the child matches the task with the color of an object. At later levels, a second feature — shape — is added, increasing cognitive load and training the ability to keep several conditions in mind at the same time.\n\nThe educational purpose of the game is to develop accurate visual choice, concentration, and gradual analysis of object features.'
+  - key: help.colour.1.page2.title
+    russian: Как играть
+    kazakh: Қалай ойнау керек
+    english: How to Play
+  - key: help.colour.1.page2.body
+    russian: '1. Прочитай задание в верхней части экрана.\n2. Выбери объект, который соответствует условию.\n3. На уровнях 1–5 правильный ответ определяется по цвету.\n4. На уровнях 6–10 необходимо учитывать одновременно цвет и форму.\n5. После правильного ответа переходи к следующему уровню.\n\nСложность возрастает постепенно: увеличивается количество вариантов и появляются отвлекающие признаки.'
+    kazakh: '1. Экранның жоғарғы бөлігіндегі тапсырманы оқы.\n2. Шартқа сәйкес келетін нысанды таңда.\n3. 1–5 деңгейлерде дұрыс жауап түс бойынша анықталады.\n4. 6–10 деңгейлерде түс пен пішінді бірге ескеру қажет.\n5. Дұрыс жауаптан кейін келесі деңгейге өт.\n\nҚиындық біртіндеп артады: нұсқалар саны көбейеді және назарды бөлетін белгілер пайда болады.'
+    english: '1. Read the task at the top of the screen.\n2. Select the object that matches the condition.\n3. In levels 1–5, the correct answer is determined by color.\n4. In levels 6–10, both color and shape must be considered.\n5. After a correct answer, move to the next level.\n\nThe difficulty increases gradually: the number of options grows and distracting features appear.'
+  - key: help.shape.1.page1.title
+    russian: О мини-игре
+    kazakh: Ойын туралы
+    english: About the Game
+  - key: help.shape.1.page1.body
+    russian: 'Мини-игра «Разложи фигуры» направлена на развитие навыков распознавания геометрических форм, пространственной ориентации и зрительно-моторной координации.\n\nИгрок должен сопоставить предъявленную фигуру с подходящей корзиной. Такое действие формирует умение выделять существенный признак объекта — форму — и игнорировать второстепенные признаки, например размер.\n\nИгра поддерживает развитие внимания, логического сопоставления, точности действий и устойчивости выполнения задания в условиях постепенного усложнения.'
+    kazakh: '«Фигураларды орналастыр» мини-ойыны геометриялық пішіндерді тану, кеңістікте бағдарлану және көру-қимыл үйлесімділігін дамытуға бағытталған.\n\nОйыншы көрсетілген пішінді сәйкес себетпен сәйкестендіруі керек. Бұл әрекет нысанның негізгі белгісін — пішінді — ажыратуға және өлшем сияқты қосымша белгілерді елемеуге үйретеді.\n\nОйын зейінді, логикалық сәйкестендіруді, әрекет дәлдігін және тапсырманы күрделенген жағдайда тұрақты орындауды дамытуға көмектеседі.'
+    english: 'The Shape Sort mini-game is aimed at developing recognition of geometric shapes, spatial orientation, and visual-motor coordination.\n\nThe player matches the presented shape with the appropriate basket. This activity trains the ability to identify the essential feature of an object — its shape — while ignoring secondary features such as size.\n\nThe game supports attention, logical matching, accuracy of actions, and stable task performance under gradually increasing difficulty.'
+  - key: help.shape.1.page2.title
+    russian: Как играть
+    kazakh: Қалай ойнау керек
+    english: How to Play
+  - key: help.shape.1.page2.body
+    russian: '1. Посмотри на фигуру, которая появляется в центре экрана.\n2. Перетащи ее в корзину с соответствующей формой.\n3. На первых уровнях подсказки остаются видимыми постоянно.\n4. На средних уровнях силуэты исчезают через несколько секунд, поэтому нужно запомнить расположение корзин.\n5. На последних уровнях корзины могут меняться местами во время подсказки.\n\nГлавная задача — ориентироваться именно на форму фигуры, а не на ее размер.'
+    kazakh: '1. Экранның ортасында пайда болған пішінге қара.\n2. Оны сәйкес пішіні бар себетке сүйреп апар.\n3. Алғашқы деңгейлерде көмекші белгілер үнемі көрініп тұрады.\n4. Орта деңгейлерде силуэттер бірнеше секундтан кейін жоғалады, сондықтан себеттердің орнын есте сақтау керек.\n5. Соңғы деңгейлерде көмек көрсету кезінде себеттер орындарын ауыстыруы мүмкін.\n\nНегізгі міндет — пішіннің өлшеміне емес, оның түріне назар аудару.'
+    english: '1. Look at the shape that appears in the center of the screen.\n2. Drag it into the basket with the matching shape.\n3. In the first levels, hints remain visible all the time.\n4. In the middle levels, silhouettes disappear after a few seconds, so the basket positions must be remembered.\n5. In the final levels, baskets may change places during the hint phase.\n\nThe main task is to focus on the shape type, not on its size.'
+  - key: help.number.1.page1.title
+    russian: О мини-игре
+    kazakh: Ойын туралы
+    english: About the Game
+  - key: help.number.1.page1.body
+    russian: 'Мини-игра «Повтори последовательность» направлена на развитие кратковременной зрительной памяти, концентрации внимания и способности воспроизводить порядок действий.\n\nИгрок наблюдает последовательность подсвечивания элементов, удерживает ее в памяти и затем повторяет в правильном порядке. Такое задание тренирует рабочую память, слухо-зрительное внимание и самоконтроль.\n\nПостепенное увеличение длины последовательности повышает сложность и позволяет мягко развивать объем запоминания.'
+    kazakh: '«Ретті қайтала» мини-ойыны қысқа мерзімді көру жадысын, зейінді шоғырландыруды және әрекеттер ретін қайта жаңғырту қабілетін дамытуға бағытталған.\n\nОйыншы элементтердің жану ретін бақылайды, оны есте сақтайды және кейін дұрыс тәртіппен қайталайды. Мұндай тапсырма жұмыс жадысын, көру арқылы зейінді және өзін-өзі бақылауды жаттықтырады.\n\nРеттіліктің ұзындығы деңгей сайын артып, есте сақтау көлемін жұмсақ түрде дамытуға мүмкіндік береді.'
+    english: 'The Repeat the Sequence mini-game is aimed at developing short-term visual memory, concentration, and the ability to reproduce an order of actions.\n\nThe player observes a sequence of highlighted elements, keeps it in memory, and then repeats it in the correct order. This task trains working memory, visual attention, and self-control.\n\nThe gradual increase in sequence length raises the difficulty and supports the development of memory span.'
+  - key: help.number.1.page2.title
+    russian: Как играть
+    kazakh: Қалай ойнау керек
+    english: How to Play
+  - key: help.number.1.page2.body
+    russian: '1. Нажми Start, чтобы начать раунд.\n2. Внимательно посмотри, в каком порядке загораются элементы.\n3. После показа повтори последовательность, нажимая элементы в том же порядке.\n4. Если последовательность повторена правильно, можно перейти к следующему уровню.\n5. Если допущена ошибка, нажми Retry и попробуй еще раз.\n\nЧем выше уровень, тем длиннее последовательность и выше нагрузка на память.'
+    kazakh: '1. Раундты бастау үшін Start батырмасын бас.\n2. Элементтердің қандай ретпен жанатынын мұқият бақыла.\n3. Көрсетілімнен кейін элементтерді дәл сол ретпен басып, ретті қайтала.\n4. Реттілік дұрыс қайталанса, келесі деңгейге өтуге болады.\n5. Қате жіберілсе, Retry батырмасын басып, тағы да байқап көр.\n\nДеңгей жоғарылаған сайын реттілік ұзарады және есте сақтау жүктемесі артады.'
+    english: '1. Press Start to begin the round.\n2. Carefully watch the order in which the elements light up.\n3. After the demonstration, repeat the sequence by pressing the elements in the same order.\n4. If the sequence is repeated correctly, move to the next level.\n5. If a mistake is made, press Retry and try again.\n\nThe higher the level, the longer the sequence and the greater the memory load.'
+  - key: help.colour.select.page1.title
+    russian: Раздел распознавания цветов
+    kazakh: Түстерді тану бөлімі
+    english: Color Recognition Section
+  - key: help.colour.select.page1.body
+    russian: 'Раздел распознавания цветов направлен на развитие зрительного восприятия, произвольного внимания и навыка классификации объектов по цвету.\n\nРебенок учится сопоставлять инструкцию с визуальным стимулом, находить нужный цвет среди нескольких вариантов и постепенно учитывать дополнительные признаки объекта.\n\nПедагогическая цель раздела — сформировать точность зрительного выбора и подготовить ребенка к более сложным заданиям, где требуется анализ нескольких признаков одновременно.'
+    kazakh: 'Түстерді тану бөлімі көру арқылы қабылдауды, ерікті зейінді және нысандарды түсі бойынша жіктеу дағдысын дамытуға бағытталған.\n\nБала нұсқауды көрнекі нысанмен сәйкестендіруді, бірнеше нұсқаның ішінен қажетті түсті табуды және қосымша белгілерді біртіндеп ескеруді үйренеді.\n\nБөлімнің педагогикалық мақсаты — көру арқылы дәл таңдау жасау және бірнеше белгіні қатар талдауға дайындау.'
+    english: 'The color recognition section develops visual perception, voluntary attention, and the ability to classify objects by color.\n\nThe child learns to match an instruction with a visual stimulus, find the required color among several options, and gradually consider additional object features.\n\nThe educational goal is to improve accuracy of visual choice and prepare the child for tasks that require analysis of several features at once.'
+  - key: help.shape.select.page1.title
+    russian: Раздел распознавания фигур
+    kazakh: Пішіндерді тану бөлімі
+    english: Shape Recognition Section
+  - key: help.shape.select.page1.body
+    russian: 'Раздел распознавания фигур развивает представления о геометрических формах и умение сравнивать объекты по внешним признакам.\n\nРебенок учится выделять форму как главный критерий выбора, сопоставлять объект с образцом и выполнять простую классификацию.\n\nРаздел поддерживает развитие зрительного восприятия, пространственного мышления, произвольного внимания и логического анализа.'
+    kazakh: 'Пішіндерді тану бөлімі геометриялық пішіндер туралы түсінікті және нысандарды сыртқы белгілері бойынша салыстыру қабілетін дамытады.\n\nБала пішінді негізгі таңдау белгісі ретінде ажыратуды, нысанды үлгімен сәйкестендіруді және қарапайым жіктеуді үйренеді.\n\nБөлім көру арқылы қабылдауды, кеңістіктік ойлауды, ерікті зейінді және логикалық талдауды дамытуға көмектеседі.'
+    english: 'The shape recognition section develops understanding of geometric forms and the ability to compare objects by external features.\n\nThe child learns to identify shape as the main selection criterion, match an object with a model, and perform simple classification.\n\nThis section supports visual perception, spatial thinking, voluntary attention, and logical analysis.'
+  - key: help.number.select.page1.title
+    russian: Раздел чисел и последовательностей
+    kazakh: Сандар мен реттіліктер бөлімі
+    english: Numbers and Sequences Section
+  - key: help.number.select.page1.body
+    russian: 'Раздел чисел и последовательностей направлен на развитие памяти, внимания и понимания порядка действий.\n\nЗадания помогают ребенку удерживать информацию в кратковременной памяти, отслеживать последовательность стимулов и воспроизводить ее в правильном порядке.\n\nПедагогическая цель раздела — развитие рабочей памяти, самоконтроля, устойчивости внимания и точности воспроизведения.'
+    kazakh: 'Сандар мен реттіліктер бөлімі жадыны, зейінді және әрекеттер ретін түсінуді дамытуға бағытталған.\n\nТапсырмалар балаға ақпаратты қысқа мерзімді жадта сақтауға, стимулдардың ретін бақылауға және оны дұрыс тәртіппен қайталауға көмектеседі.\n\nБөлімнің педагогикалық мақсаты — жұмыс жадысын, өзін-өзі бақылауды, зейін тұрақтылығын және дәл қайта жаңғыртуды дамыту.'
+    english: 'The numbers and sequences section develops memory, attention, and understanding of action order.\n\nThe tasks help the child hold information in short-term memory, track a sequence of stimuli, and reproduce it in the correct order.\n\nThe educational goal is to develop working memory, self-control, sustained attention, and reproduction accuracy.'
