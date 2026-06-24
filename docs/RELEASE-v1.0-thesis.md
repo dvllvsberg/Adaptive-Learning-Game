@@ -27,7 +27,7 @@
 - Локализация: RU / KZ / EN
 - Help, Pause, Settings
 
-Windows x64 build. Распакуй ZIP и запусти AdaptiveLearningGame.exe.
+Windows x64 build. Распакуй ZIP, открой папку `Build1` и запусти `2D Learning Game.exe`.
 ```
 
 5. Прикрепи ZIP и нажми **Publish release**.

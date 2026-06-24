@@ -47,7 +47,7 @@
 
 1. Скачай `Adaptive-Learning-Game-v1.0-thesis-Windows.zip` из [Releases](https://github.com/dvllvsberg/Adaptive-Learning-Game/releases).
 2. Распакуй архив.
-3. Запусти `AdaptiveLearningGame.exe`.
+3. Запусти `2D Learning Game.exe` (внутри папки `Build1` после распаковки).
 
 ## Запуск из исходников
 
